@@ -76,6 +76,3 @@ Resources:
         ComputeType: BUILD_GENERAL1_SMALL
         Image: aws/codebuild/standard:4.0
 
-#ww
-                
-        
